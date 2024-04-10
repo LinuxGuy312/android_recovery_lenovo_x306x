@@ -1,0 +1,1 @@
+chmod +x device/lenovo/x306x/mkbootimg
