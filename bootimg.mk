@@ -1,4 +1,4 @@
-MKBOOTIMG := device/lenovo/amar/mkbootimg
+MKBOOTIMG := device/lenovo/x306x/mkbootimg
 
 $(INSTALLED_BOOTIMAGE_TARGET): $(MKBOOTIMG) $(INTERNAL_BOOTIMAGE_FILES) $(BOOTIMAGE_EXTRA_DEPS)
 	$(call pretty,"Target boot image: $@")

@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_x306x.mk
+	$(LOCAL_DIR)/twrp_x306x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_x306x-user \
-    lineage_x306x-userdebug \
-    lineage_x306x-eng
+    twrp_x306x-user \
+    twrp_x306x-userdebug \
+    twrp_x306x-eng
